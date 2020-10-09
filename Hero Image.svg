@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 521 394" style="white-space: pre;">
+    <style>
+@keyframes a0_do { 0% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 20px; } }
+@keyframes a1_do { 0% { stroke-dashoffset: 0px; } 100% { stroke-dashoffset: 20px; } }
+@keyframes a2_t { 0% { transform: translate(12.6949px,12.6949px) scale(0.2,0.2); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { transform: translate(12.6949px,12.6949px) scale(1,1); } }
+@keyframes a2_o { 0% { opacity: 1; } 80% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a3_t { 0% { transform: translate(12.6949px,12.6949px) scale(0.2,0.2); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { transform: translate(12.6949px,12.6949px) scale(1,1); } }
+@keyframes a3_o { 0% { opacity: 1; } 80% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a4_t { 0% { transform: translate(12.6949px,12.6949px) scale(0.2,0.2); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { transform: translate(12.6949px,12.6949px) scale(1,1); } }
+@keyframes a4_o { 0% { opacity: 1; } 80% { opacity: 1; } 100% { opacity: 0; } }
+@keyframes a5_t { 0% { transform: translate(12.6949px,12.6949px) scale(0.2,0.2); animation-timing-function: cubic-bezier(0,0,0.58,1); } 100% { transform: translate(12.6949px,12.6949px) scale(1,1); } }
+@keyframes a5_o { 0% { opacity: 1; } 80% { opacity: 1; } 100% { opacity: 0; } }
+    </style>
+    <image xlink:href="../Downloads/Group 792(1).png" width="521" height="394" preserveAspectRatio="none" transform="translate(521,394) translate(-521,-394)"/>
+    <path d="M0,0C0,0,-8,58.4375,24,85" fill="none" stroke-linecap="round" stroke="#e8a702" stroke-dasharray="5" stroke-dashoffset="0" stroke-width="2" transform="translate(122,199)" style="animation: 1.5s linear infinite both a0_do;"/>
+    <path d="M-26,74C12.9572,76.6121,49.9336,78.0514,50,39" fill="none" stroke-linecap="round" stroke="#1a6bdc" stroke-dasharray="5" stroke-dashoffset="0" stroke-width="2" transform="translate(349,209.724)" style="animation: 1.5s linear infinite both a1_do;"/>
+    <g transform="translate(122,199) scale(1.5,1.5) translate(-12.6949,-12.6949)">
+        <ellipse rx="11" ry="11" stroke="none" fill="#e8a702" stroke-width="1.5" stroke-linecap="round" fill-opacity="0.2" opacity="1" transform="translate(12.6949,12.6949) scale(0.2,0.2)" style="animation: 1.5s linear infinite both a2_t, 1.5s linear infinite both a2_o;"/>
+        <ellipse rx="5" ry="5" stroke="none" fill="#e8a702" stroke-width="1.5" stroke-linecap="round" transform="translate(12.6949,12.6949)"/>
+    </g>
+    <g transform="translate(146,284) scale(1.5,1.5) translate(-12.6949,-12.6949)">
+        <ellipse rx="11" ry="11" stroke="none" fill="#e8a702" stroke-width="1.5" stroke-linecap="round" fill-opacity="0.2" opacity="1" transform="translate(12.6949,12.6949) scale(0.2,0.2)" style="animation: 1.5s linear infinite both a3_t, 1.5s linear infinite both a3_o;"/>
+        <ellipse rx="5" ry="5" stroke="none" fill="#e8a702" stroke-width="1.5" stroke-linecap="round" transform="translate(12.6949,12.6949)"/>
+    </g>
+    <g transform="translate(323,282.724) scale(1.5,1.5) translate(-12.6949,-12.6949)">
+        <ellipse rx="11" ry="11" stroke="none" fill="#1a6bdc" stroke-width="1.5" stroke-linecap="round" fill-opacity="0.2" opacity="1" transform="translate(12.6949,12.6949) scale(0.2,0.2)" style="animation: 1.5s linear infinite both a4_t, 1.5s linear infinite both a4_o;"/>
+        <ellipse rx="5" ry="5" stroke="none" fill="#1a6bdc" stroke-width="1.5" stroke-linecap="round" transform="translate(12.6949,12.6949)"/>
+    </g>
+    <g transform="translate(399,248.724) scale(1.5,1.5) translate(-12.6949,-12.6949)">
+        <ellipse rx="11" ry="11" stroke="none" fill="#1a6bdc" stroke-width="1.5" stroke-linecap="round" fill-opacity="0.2" opacity="1" transform="translate(12.6949,12.6949) scale(0.2,0.2)" style="animation: 1.5s linear infinite both a5_t, 1.5s linear infinite both a5_o;"/>
+        <ellipse rx="5" ry="5" stroke="none" fill="#1a6bdc" stroke-width="1.5" stroke-linecap="round" transform="translate(12.6949,12.6949)"/>
+    </g>
+</svg>
